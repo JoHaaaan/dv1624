@@ -1,1 +1,2 @@
 someFunction()
+# bug is fixed
